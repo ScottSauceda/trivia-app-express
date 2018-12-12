@@ -46,3 +46,53 @@ module.exports = mongoose.model("questions", questionsSchema)
 //         ]
 //     }
 // }
+
+
+// {
+// 	"category": "Movies",
+//     "questions": [
+//         {
+//           "question": "How old was Mark Hamil when first cast as Luke Skywalker?",
+//              "answers": [
+//           		{ 
+//           			"type": "true",
+//           			"content": "25"
+//           		},
+//           		{ 
+//           			"type": "false",
+//           			"content": "21"
+//           		},
+//           		{ 
+//           			"type": "false",
+//           			"content": "18"
+//           		},
+//           		{ 
+//           			"type": "false",
+//           			"content": "31"
+//           		},
+//           	]
+//       },
+//       {
+//           "question": "What is the highest grossing movie of all time?",
+//           "answers": [
+//           		{ 
+//           			"type": "true",
+//           			"content": "Avatar(2009)"
+//           		},
+//           		{ 
+//           			"type": "false",
+//           			"content": "Titanic(1997)"
+//           		},
+//           		{ 
+//           			"type": "false",
+//           			"content": "The Matrix(1999)"
+//           		},
+//           		{ 
+//           			"type": "false",
+//           			"content": "The Avengers 4(2018)"
+//           		},
+//           	]
+//       }
+//     ]
+
+// }
